@@ -1,0 +1,7 @@
+.idea
+*.iml
+*.wav
+test.txt
+testOut.txt
+heatindex.txt
+zipInput.zip
